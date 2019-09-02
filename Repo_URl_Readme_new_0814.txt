@@ -1,0 +1,11 @@
+ryo-currency/ryo-currency,https://github.com/ryo-currency/ryo-currency,2018-Jun-24,19,43,35
+XTRABYTES/SSS,https://github.com/XTRABYTES/SSS,2018-Apr-27,7,5,6
+omencoin/omencoin,https://github.com/omencoin/omencoin,2019-Feb-23,0,0,0
+sagacrypto/SagaCoin,https://github.com/sagacrypto/SagaCoin,2017-Dec-02,22,22,12
+crowdholding/yup-token,https://github.com/crowdholding/yup-token,2018-Jun-11,2,0,0
+waxio/wax-api,https://github.com/waxio/wax-api,2017-Dec-01,14,19,4
+blitzpredict/xbptoken,https://github.com/blitzpredict/xbptoken,2018-May-02,2,1,1
+coins4lunch/EvilCoin,https://github.com/coins4lunch/EvilCoin,2015-Dec-03,3,1,0
+CryptoFutureGmbH/RothariumToken,https://github.com/CryptoFutureGmbH/RothariumToken,2018-Jun-18,0,0,0
+EOSIO/eosio.forum,https://github.com/EOSIO/eosio.forum,2018-Jun-19,5,10,38
+Privatix/privatix,https://github.com/Privatix/privatix,2018-Oct-24,14,24,4
