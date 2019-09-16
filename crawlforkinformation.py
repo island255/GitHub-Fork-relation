@@ -2,7 +2,7 @@
 '''
 Created on 2018年5月13日
 
-@author: Yu Qu
+@author: Jia Ang
 '''
 
 from github import Github
