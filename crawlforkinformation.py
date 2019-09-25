@@ -45,6 +45,7 @@ def get_coin_url(coin_git):
             url='https://api.github.com/repos/'+name
             r = requests.get(url,headers=headers)
             if(r.status_code == 200):
+                num=num+1
                 repo=g.get_repo(name)
                 name=repo.full_name
                 print name
@@ -70,7 +71,10 @@ coin_git=coin_git_mapping()
 
 out_file=open('all_coin_fork_relation_20190902.txt','w')
 
-download_file_record=open('Repo_download_link.csv','w')
+num=0
+# download_file_record=open('Repo_download_link.csv','w')
 get_coin_url(coin_git)
-download_file_record.close()
+
+print num
+# download_file_record.close()
     
