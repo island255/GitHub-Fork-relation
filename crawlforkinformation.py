@@ -69,7 +69,7 @@ coin_git=coin_git_mapping()
 # print coin_git
 
 
-out_file=open('all_coin_fork_relation_20190902_test.txt','w')
+out_file=open('all_coin_fork_relation_20190902.txt','w')
 
 num=0
 # download_file_record=open('Repo_download_link.csv','w')
