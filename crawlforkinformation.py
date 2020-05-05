@@ -63,6 +63,7 @@ def get_coin_url(coin_git):
 
 
 global g
+# token should be replaced with your own token
 g=Github("d10a0416ce78a66d48bccba259367f9e833e3aff",timeout=1000)
 headers = {'Authorization': 'token d10a0416ce78a66d48bccba259367f9e833e3aff'}
 coin_git=coin_git_mapping()
@@ -72,7 +73,7 @@ coin_git=coin_git_mapping()
 out_file=open('all_coin_fork_relation_20190902_test.txt','w')
 
 num=0
-# download_file_record=open('Repo_download_link.csv','w')
+# download_file_record=open('Repo_download_link.csv','w') 
 get_coin_url(coin_git)
 
 print num
